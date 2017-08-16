@@ -1,6 +1,7 @@
 conf = {
     "yourname":"朱博亨",
     "filename": {
+        "cur_filename": "0815技术朱博亨.xlsx",
         "name_format": "{date}日报{name}",
         "date_format": "%m%d"
     },
@@ -15,7 +16,7 @@ conf = {
         "psw": "123456"
     },
     "target_email": {
-        "addr": "liujinzhe@shanlinjinrong.com"
+        "addr": "zhuboheng@shanlinjinrong.com"
     }
 }
 
