@@ -12,11 +12,11 @@ conf = {
         "subject_format": "{date}日报-{name}"
     },
     "source_email": {
-        "addr": "zhuboheng@shanlinjinrong.com",
+        "addr": "zhuboheng",
         "psw": "123456"
     },
     "target_email": {
-        "addr": "zhuboheng@shanlinjinrong.com"
+        "addr": "zhuboheng"
     }
 }
 
